@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Raleway;
+    src: url(fonts/Raleway-VariableFont_wght.ttf);
+}
+
+
+body{
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Raleway, sans-serif;
+    padding: 50px;
+}
+
+h1, h2 {
+    font-family: "Great vibes";
+    line-height: 1.2;
+    font-weight: bold;
+    
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+.nested-ul {
+    list-style-type: disc;
+}
+
+.innermost-ul {
+    list-style-type: circle;
+}
